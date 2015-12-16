@@ -1,0 +1,9 @@
+<Projects version="2.0">
+	<Project active="1">SHA3.cfp</Project>
+	<File active="0">main.cpp</File>
+	<File active="0">StateArray.h</File>
+	<File active="0">BitString.h</File>
+	<File active="1">StateArray.cpp</File>
+	<File active="0">BitString.cpp</File>
+	<File active="0">SHA3.txt</File>
+</Projects>
